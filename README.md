@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TonyXGamer
-- 👀 I’m interested in Coding, Video Games, and Anime.
-- 🌱 I’m currently learning C++, C#, Java, and Electronics(Arduino).
+- 🌱 I’m currently learning C++, C#, and Electronics(Arduino).
 - 💞️ I’m looking to collaborate on coding projects to help me learn.
-- 📫 How to reach me (to be continued)
+- 📫 How to reach me (to be continued).
+- I'll be posting Arduino codes here for practice, you can look and modify to make it better if you wish.
+  Thank you.
 
 <!---
 TonyXGamer/Arduino_Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
